@@ -1,5 +1,5 @@
 {
-  "name": "use-dark-mode",
+  "name": "@bulletlogic/use-dark-mode",
   "publishConfig": {
     "tag": "latest"
   },
